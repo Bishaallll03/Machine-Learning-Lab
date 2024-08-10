@@ -77,7 +77,5 @@ jupyter notebook notebooks/<notebook_name>.ipynb
 
 I would like to express my sincere gratitude to **Prof. Ratnakar Dash** for his guidance and support throughout this lab. His insights and expertise have been invaluable in deepening my understanding of machine learning.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
