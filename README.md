@@ -17,7 +17,7 @@ This repository contains the code and documentation for the Machine Learning Lab
 - To learn model evaluation and hyperparameter tuning techniques.
 - To explore the applications of machine learning in various domains.
 
-## Lab Contents
+[//] <## Lab Contents
 
 1. **Data Preprocessing**
    - Handling missing data
@@ -46,7 +46,7 @@ This repository contains the code and documentation for the Machine Learning Lab
 5. **Advanced Topics**
    - Hyperparameter tuning with GridSearchCV
    - Ensemble Methods
-   - Feature Importance and Selection
+   - Feature Importance and Selection>
 
 ## Prerequisites
 
