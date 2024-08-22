@@ -1,6 +1,4 @@
-Here's a template for the README file for your machine learning lab:
 
----
 
 # Machine Learning Lab
 
