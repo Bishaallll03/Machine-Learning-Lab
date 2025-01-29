@@ -1,0 +1,46 @@
+digraph {
+	5548112464 [label="Feature 2
+Threshold: 1.9"]
+	4402283536 [label="Feature None
+Threshold: None"]
+	5548112464 -> 4402283536 [label=Left]
+	5548112528 [label="Feature 2
+Threshold: 4.8"]
+	5548112464 -> 5548112528 [label=Right]
+	4471477840 [label="Feature 3
+Threshold: 1.6"]
+	5548112528 -> 4471477840 [label=Left]
+	4471484880 [label="Feature None
+Threshold: None"]
+	4471477840 -> 4471484880 [label=Left]
+	4471475600 [label="Feature 0
+Threshold: 5.9"]
+	4471477840 -> 4471475600 [label=Right]
+	4471474640 [label="Feature None
+Threshold: None"]
+	4471475600 -> 4471474640 [label=Left]
+	4471485200 [label="Feature None
+Threshold: None"]
+	4471475600 -> 4471485200 [label=Right]
+	5548112848 [label="Feature 3
+Threshold: 1.7"]
+	5548112528 -> 5548112848 [label=Right]
+	5555977232 [label="Feature 3
+Threshold: 1.5"]
+	5548112848 -> 5555977232 [label=Left]
+	5555974736 [label="Feature 2
+Threshold: 4.9"]
+	5555977232 -> 5555974736 [label=Left]
+	4471482832 [label="Feature None
+Threshold: None"]
+	5555974736 -> 4471482832 [label=Left]
+	5555965072 [label="Feature None
+Threshold: None"]
+	5555974736 -> 5555965072 [label=Right]
+	5555970832 [label="Feature None
+Threshold: None"]
+	5555977232 -> 5555970832 [label=Right]
+	5548113168 [label="Feature None
+Threshold: None"]
+	5548112848 -> 5548113168 [label=Right]
+}
